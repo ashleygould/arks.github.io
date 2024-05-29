@@ -11,7 +11,7 @@ and collaboration. Over 1250 global organizations create ARKs.
 
 <!--more-->
 
-BLEE! BLEE! The ARK Alliance community comprises institutions and people who use or assign
+BLEE! BLEE! BLEE! The ARK Alliance community comprises institutions and people who use or assign
 ARK identifiers as well as those interested in promoting ARKs and sustaining
 the open ARK infrastructure, which consists of standards, best practices, the
 [N2T.net] resolver, and the registry of ARK organizations. There is also an
